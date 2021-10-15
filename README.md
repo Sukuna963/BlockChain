@@ -4,7 +4,7 @@
 
 [Capture The Ether](https://capturetheether.com/)
 
-## Conquistas
+## Achievements
 
 *BlockChain (Ether)*
 | [CryptoZombies](https://cryptozombies.io/) |
