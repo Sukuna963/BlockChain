@@ -1,11 +1,21 @@
 # BlockChain
+##Learning
+* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://nakamotoinstitute.org/bitcoin/)
+* [ethereum.org](https://ethereum.org/en/)
+* [Dapp University](https://www.dappuniversity.com/)
+* [ivan on tech](https://academy.ivanontech.com/courses/blockchain-bitcoin-101)
 
-## CTF
-
+## Labs
 [Capture The Ether](https://capturetheether.com/)
+[CryptoZombies](https://cryptozombies.io/)
+[Immunefi](https://immunefi.com/learn/)
 
-## Achievements
+## Tools
+* [MetaMask](https://metamask.io/)
+* [Solidity](https://docs.soliditylang.org/en/v0.8.9/)
+* [truffle suite](https://www.trufflesuite.com/ganache)
 
+## Win
 *BlockChain (Ether)*
 | [CryptoZombies](https://cryptozombies.io/) |
 |--------------------------------------------|
