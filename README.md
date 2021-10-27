@@ -6,9 +6,9 @@
 * [ivan on tech](https://academy.ivanontech.com/courses/blockchain-bitcoin-101)
 
 ## Labs
-[Capture The Ether](https://capturetheether.com/)
-[CryptoZombies](https://cryptozombies.io/)
-[Immunefi](https://immunefi.com/learn/)
+* [Capture The Ether](https://capturetheether.com/)
+* [CryptoZombies](https://cryptozombies.io/)
+* [Immunefi](https://immunefi.com/learn/)
 
 ## Tools
 * [MetaMask](https://metamask.io/)
