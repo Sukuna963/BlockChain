@@ -3,6 +3,7 @@
 * [ethereum.org](https://ethereum.org/en/)
 * [Dapp University](https://www.dappuniversity.com/)
 * [ivan on tech](https://academy.ivanontech.com/courses/blockchain-bitcoin-101)
+* [b9lab](https://academy.b9lab.com/login)
 
 ## Labs
 * [Capture The Ether](https://capturetheether.com/)
