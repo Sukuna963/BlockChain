@@ -5,6 +5,8 @@
 * [ivan on tech](https://academy.ivanontech.com/courses/blockchain-bitcoin-101)
 * [b9lab](https://academy.b9lab.com/login)
 * [smart-contracts security](https://ethereum.org/en/developers/docs/smart-contracts/security/)
+* [smart-contract attacks](https://consensys.github.io/smart-contract-best-practices/attacks/)
+* [SWC](https://swcregistry.io/docs/SWC-128)
 
 ## Labs
 * [Capture The Ether](https://capturetheether.com/)
