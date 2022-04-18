@@ -7,6 +7,7 @@
 * [smart-contracts security](https://ethereum.org/en/developers/docs/smart-contracts/security/)
 * [smart-contract attacks](https://consensys.github.io/smart-contract-best-practices/attacks/)
 * [SWC](https://swcregistry.io/docs/SWC-128)
+* [Hyperledger](https://www.hyperledger.org/use/tutorials)
 
 ## Labs
 * [Capture The Ether](https://capturetheether.com/)
