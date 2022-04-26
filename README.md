@@ -8,6 +8,8 @@
 * [smart-contract attacks](https://consensys.github.io/smart-contract-best-practices/attacks/)
 * [SWC](https://swcregistry.io/docs/SWC-128)
 * [Hyperledger](https://www.hyperledger.org/use/tutorials)
+* [Ethereum Development with Go](https://goethereumbook.org/en/)
+* [Figment learn](https://learn.figment.io/pathways)
 
 ## Labs
 * [Capture The Ether](https://capturetheether.com/)
