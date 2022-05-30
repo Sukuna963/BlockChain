@@ -22,6 +22,9 @@
 * [Solidity](https://docs.soliditylang.org/en/v0.8.9/)
 * [truffle suite](https://www.trufflesuite.com/ganache)
 
+## Security
+* [QuantStamp](https://quantstamp.com/blog)
+
 ## Win
 *BlockChain (Ether)*
 | [CryptoZombies](https://cryptozombies.io/) |
